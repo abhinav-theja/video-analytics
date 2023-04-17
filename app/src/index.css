@@ -1,0 +1,9 @@
+.main__container {
+  margin-top: -2rem;
+  min-height: 90vh;
+  /* background-color: teal; */
+}
+
+.main__container {
+  padding-top: 2rem !important
+}
